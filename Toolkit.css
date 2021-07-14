@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-tabs-1 {
-  margin-top: 76px;
+  margin-top: 74px;
   margin-bottom: 60px;
   min-height: 1017px;
 }
@@ -13,9 +13,13 @@
 }
 
 .u-section-1 .u-custom-html-1 {
-  min-height: 948px;
+  min-height: 1059px;
   width: 1080px;
-  margin: -7px 0 -30px;
+  margin: -7px 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -1044px 200px 0 219px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -34,12 +38,20 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-tabs-1 {
+    margin-top: -1247px;
     height: auto;
   }
 
   .u-section-1 .u-custom-html-1 {
     width: 880px;
+    margin-bottom: -143px;
     height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 1140px;
+    margin-right: 159px;
+    margin-left: 161px;
   }
 }
 
@@ -47,9 +59,18 @@
   .u-section-1 .u-custom-html-1 {
     width: 660px;
   }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 122px;
+    margin-left: 123px;
+  }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-tabs-1 {
+    margin-top: -1283px;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -57,6 +78,11 @@
 
   .u-section-1 .u-custom-html-1 {
     width: 520px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 92px;
+    margin-right: 92px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -71,8 +97,17 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-tabs-1 {
+    margin-top: -1262px;
+  }
+
   .u-section-1 .u-custom-html-1 {
     width: 320px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 58px;
+    margin-right: 58px;
   }
 }@import "compass/css3";
 // only for presentation purposes
