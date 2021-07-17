@@ -19,9 +19,9 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 230px;
     margin-left: 273px;
-    margin-right: 241px;
-    width: 395px;
   }
 }
 
@@ -47,7 +47,6 @@
   .u-section-1 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
-    width: 340px;
   }
 
   .u-section-1 .u-text-2 {
