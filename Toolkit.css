@@ -32,13 +32,47 @@
   margin-bottom: 0;
 }
 
+.u-section-1 .u-text-2 {
+  margin: -935px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 899px -30px 0;
+}
+
 .u-section-1 .u-container-layout-3 {
   padding: 30px;
+}
+
+.u-section-1 .u-custom-html-3 {
+  min-height: 909px;
+  width: 1080px;
+  margin: 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -895px 29px 0 74px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-custom-html-4 {
+  min-height: 909px;
+  height: auto;
+  width: 1080px;
+  margin: 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: -898px auto 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-tabs-1 {
     margin-top: -1247px;
+    margin-bottom: 0;
     height: auto;
   }
 
@@ -53,6 +87,29 @@
     margin-right: 159px;
     margin-left: 161px;
   }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -149px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 143px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    width: 880px;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin: 30px 0 60px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    width: 880px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -63,6 +120,22 @@
   .u-section-1 .u-text-1 {
     margin-right: 122px;
     margin-left: 123px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -113px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    width: 660px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    width: 660px;
   }
 }
 
@@ -94,6 +167,19 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-custom-html-3 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    width: 520px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -108,6 +194,22 @@
   .u-section-1 .u-text-1 {
     margin-left: 58px;
     margin-right: 58px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -99px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 42px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    width: 320px;
   }
 }@import "compass/css3";
 // only for presentation purposes
